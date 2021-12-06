@@ -1,5 +1,4 @@
 #title-heading {
-  background-color: #2E4C6D;
   background-image: url("../img/title-background.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -50,8 +49,9 @@ h3 {
 
 
 #reviews {
-  background-color: #ddd;
+  background-color: #2E4C6D;
   padding: 5px;
+  color: white;
   text-align: center;
 }
 
@@ -77,10 +77,4 @@ h3 {
 #footer {
   margin: 7% 15%;
   text-align: center;
-}
-
-@media (max-width: 768px) {
-  .call-btn {
-    font-size: 3rem;
-  }
 }
