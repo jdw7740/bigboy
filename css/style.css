@@ -1,4 +1,3 @@
-
 #title-heading {
   background-color: #2E4C6D;
   background-image: url("../img/title-background.jpeg");
@@ -81,7 +80,7 @@ h3 {
   text-align: center;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
   .call-btn {
     font-size: 3rem;
   }
